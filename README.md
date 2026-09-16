@@ -35,7 +35,7 @@ The Problem Solved:Configured structural backend authentication layers for enter
  📈 GitHub Stats & Connectivity
 
 📬 How to reach me:**
-Professional Portfolio: [My Contra Profile:(https://contra.com/mh_brand_accounts_a69e0vmg/work?r=mh_brand_accounts_a69e0vmg)Professional Network: [Connect with me on LinkedIn](https://linkedin.com)
+Professional Portfolio: [My Contra Profile:(https://contra.com/mh_brand_accounts_a69e0vmg/work?r=mh_brand_accounts_a69e0vmg)Professional Network: [Connect with me on LinkedIn](https://www.linkedin.com/in/doreen-michelle-agyemang-prempeh-736723431?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 Business Inquiries:mhnexusglobal33@gmail.com
 
