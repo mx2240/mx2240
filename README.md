@@ -17,7 +17,7 @@ Specialized Integrations:Paystack API Webhooks (Mobile Money & Card Checkouts), 
 
 🗂️ Flagship Project Architecture Focus
 
- 🌐 [Alora AI — Smart Orchestration Dashboard](https://contra.com)
+ 🌐 [Alora AI — Smart Orchestration Dashboard](https://aloraiot.vercel.app/)
 The Tech:React.js, Tailwind CSS, Firebase Realtime Database, Node.js/Express.js
 
 The Problem Solved: 
@@ -25,7 +25,7 @@ Engineered a dark-theme, high-performance monitoring plane handling streaming te
 
 Impact:Merged advanced state management with local Paystack payment rails for seamless operation.
 
- 🔐 [Secure Multi-Tier Authentication Gateways](https://contra.com)
+ 🔐 [Secure Multi-Tier Authentication Gateways],()
 The Tech:** Node.js, Express.js, JSON Web Tokens (JWT), Encrypted Middleware Routing
 
 The Problem Solved:Configured structural backend authentication layers for enterprise login systems (Giantronic, Student, and Admin panels) mapping precise form tracking validation.
@@ -35,7 +35,7 @@ The Problem Solved:Configured structural backend authentication layers for enter
  📈 GitHub Stats & Connectivity
 
 📬 How to reach me:**
-Professional Portfolio: [My Contra Profile:(https://contra.com)Professional Network: [Connect with me on LinkedIn](https://linkedin.com)
+Professional Portfolio: [My Contra Profile:(https://contra.com/mh_brand_accounts_a69e0vmg/work?r=mh_brand_accounts_a69e0vmg)Professional Network: [Connect with me on LinkedIn](https://linkedin.com)
 
 Business Inquiries:mhnexusglobal33@gmail.com
 
